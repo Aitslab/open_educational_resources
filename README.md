@@ -22,3 +22,5 @@ https://github.com/Aitslab/training
 contains material developed by our group and by other teachers of the COMPUTE Research School
 
 https://github.com/COMPUTE-LU/
+
+### Checklist - Individual development for scientific staff
